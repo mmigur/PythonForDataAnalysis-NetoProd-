@@ -1,7 +1,5 @@
 ## Python for Data Analysis
 
-Complex and not very complex database queries
-
 if you have any questions you can ask me on mail: mmigur@bk.ru
 
 My telegram: @JustPainMayor
@@ -14,12 +12,7 @@ Scroll down to view the repository
 
 
 ## Description
-
-I am a student of the course and this is one of my final works on the module. This module is called SQL and Data Retrieval.
-
-Since I was provided with a sample database for writing queries and I cannot lay out the ports to connect to it remotely.
-
-My work consists of 5 files from the main program and the FinalWork folder where the final work is written where I connect to the PostgreSQL training database.
+Hello everyone, this is my second job on the course, in it I solved complex and not very problems in Python
 
 ## Description of files :
 1. IntroductionToPython
